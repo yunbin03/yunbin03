@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🤗, I'm Yunbin Lee, a developer who codes dreams.</h1>
 <h3 align="center">I am workin with the mission of change the world a better than yesterday.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunbin03&label=Profile%20views&color=0e75b6&style=flat" alt="yunbin03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunbin03&label=Profile%20Views&color=0e75b6&style=flat" alt="yunbin03" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
