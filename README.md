@@ -1,4 +1,4 @@
-s### About me
+### About me
 
 <h1 align="center">Hi 🤗, I'm Yunbin Lee, a developer who codes dreams.</h1>
 <h3 align="center">I am workin with the mission of change the world a better than yesterday.</h3>
