@@ -1,7 +1,7 @@
 ### About me
 
 <h1 align="center">Hi 🤗, I'm Yunbin Lee, a developer who codes dreams.</h1>
-<h3 align="center">I am workin with the mission of change the world a better than yesterday.</h3>
+<h3 align="center">I will work with the mission of changing the world to be better than it was yesterday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunbin03&label=Profile%20Views&color=0e75b6&style=flat" alt="yunbin03" /> </p>
 
@@ -12,7 +12,7 @@
 
 📫 How to reach me **evelynlee.yb@gmail.com** 
 
-🎄 [포트폴리오](https://eunji-portfolio.super.site/)
+🎄 [포트폴리오]()
 
 ### :mortar_board: Experience 
 - 
