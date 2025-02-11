@@ -12,7 +12,7 @@
 
 📫 How to reach me **evelynlee.yb@gmail.com** 
 
-🎄 [포트폴리오]()
+🎄 [포트폴리오](https://icy-wallflower-b76.notion.site/PORTFOLIO-178d1582c2e180598421ef0e0dbac4b8)
 
 ### :mortar_board: Experience 
 - 
