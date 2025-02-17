@@ -5,23 +5,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunbin03&label=Profile%20Views&color=0e75b6&style=flat" alt="yunbin03" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 </p>
+
+📍 Seoul, Korea   
+📫 How to reach me **evelynlee.yb@gmail.com**   
+🎄 [PORTFOLIO](https://icy-wallflower-b76.notion.site/PORTFOLIO-178d1582c2e180598421ef0e0dbac4b8)
+</br>
 </br>
 
-📫 How to reach me **evelynlee.yb@gmail.com** 
-
-🎄 [포트폴리오](https://icy-wallflower-b76.notion.site/PORTFOLIO-178d1582c2e180598421ef0e0dbac4b8)
-
-### :mortar_board: Experience 
-- 
-- 삼성 청년 SW 아카데미(SSAFY) 6기 수료 
--  
-- Yeungnam University, Computer Engineering
-
+### 📑Experience 
+- 2025 Korea Society of Computer and Information(KSCI) 동계학술대회
+- AI 4HER Conference 
+- Annual Conference of KIPS 2024 학술대회
+- 2024 Korea Sanhak Foundation AI Internship Program 4기 수료
+- Chungbuk ICT 공모전
+- 2024 Hanium ICT Mentoring
+- Hanyang Women's University, Smart IT
 </br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚙️Languages and Tools</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -31,10 +34,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
   
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
@@ -42,11 +41,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunbin03&show_icons=true&locale=en" alt="yunbin03" /></p>
