@@ -11,7 +11,7 @@
 
 📍 Seoul, Korea   
 📫 How to reach me **evelynlee.yb@gmail.com**   
-🎄 [PORTFOLIO](https://icy-wallflower-b76.notion.site/PORTFOLIO-178d1582c2e180598421ef0e0dbac4b8)
+🎄 [Portfolio](https://icy-wallflower-b76.notion.site/PORTFOLIO-178d1582c2e180598421ef0e0dbac4b8)
 </br>
 </br>
 
